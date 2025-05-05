@@ -70,8 +70,6 @@ Here are some ideas to get you started:
   <h3 align="center">✨ My Github ✨</h3>
   
   ![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=yejiniee&layout=compact&theme=dark)
-
-  ![깃허브 스택](https://github-readme-stats.vercel.app/api?username=yejiniee&show_icons=true&theme=shadow_green) 
   
 </div>
 <br>
